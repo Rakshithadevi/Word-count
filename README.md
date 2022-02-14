@@ -41,6 +41,8 @@ print("Number of words={0}".format(num_words))
 
 
 ## Terminal and text.txt:
+![image](https://user-images.githubusercontent.com/94165326/153899054-32e4fd1b-7812-4fff-9329-b8bf1607a9ae.png)
+
 
 
 
