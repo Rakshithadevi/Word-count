@@ -37,6 +37,8 @@ print("Number of words={0}".format(num_words))
 ```
 ### OUTPUT:
 ## word.py:
+![image](https://user-images.githubusercontent.com/94165326/153898944-71fb2775-122c-495f-9ea3-eb7b33d116b8.png)
+
 
 ## Terminal and text.txt:
 
