@@ -1,1 +1,1 @@
-python is an interpreted,object oriented,
+python is an interpreted,object oriented
